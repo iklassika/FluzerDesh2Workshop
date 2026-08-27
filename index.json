@@ -1,76 +1,13 @@
 {
   "mods": [
     {
-      "id": "customsounds",
-      "title": "Custom Sounds!",
-      "author": "Флузердеш",
-      "description": "Кастомные звуки игрока",
-      "preview": "https://cdn-icons-png.flaticon.com/512/95/95021.png",
-      "luaUrl": "https://raw.githubusercontent.com/FChickCG/FluzerDesh2Workshop/refs/heads/main/mods/customsounds.lua",
-      "sizeKb": 3
-    },
-    {
-     "id": "neon_overdrive",
-     "title": "Неоновый Овердрайв 🚀",
-     "author": "Qwen3.7",
-     "description": "Скоростной киберпанк-режим: быстрый бег, плавные прыжки, эпичная музыка и умное приветствие с балансом монет.",
-     "preview": "https://i.imgur.com/8XbJz9L.png",
-     "luaUrl": "https://raw.githubusercontent.com/FChickCG/FluzerDesh2Workshop/refs/heads/main/mods/neonoverdrive.lua",
-     "sizeKb": 2
-    },
-    {
-     "id": "drunk",
-     "title": "Пьяный режим",
-     "author": "Флузердеш",
-     "description": "пьяный режим",
-     "preview": "https://i.imgur.com/8XbJz9L.png",
-     "luaUrl": "https://raw.githubusercontent.com/FChickCG/FluzerDesh2Workshop/refs/heads/main/mods/drunk.lua",
-     "sizeKb": 26
-    },
-    {
-      "id": "berserk_protocol",
-      "title": "Протокол: Берсерк 💀",
-      "author": "Qwen3.7",
-      "description": "Адаптивный мод: меняет сложность и обращение в зависимости от твоих монет. Высокая скорость, эпичные звуки и риск.",
-      "preview": "https://i.imgur.com/3QZz9Lp.png",
-      "luaUrl": "https://raw.githubusercontent.com/FChickCG/FluzerDesh2Workshop/refs/heads/main/mods/berserk_protocol.lua",
-      "sizeKb": 3
-    },
-    {
-      "id": "prono",
-      "title": "PRONO",
-      "author": "Vinzzzmoke",
-      "description": "Зушс",
-      "preview": "https://avatars.githubusercontent.com/u/104910868?v=4",
-      "luaUrl": "https://raw.githubusercontent.com/FChickCG/FluzerDesh2Workshop/refs/heads/main/mods/prono.lua",
-      "sizeKb": 148
-    },
-    {
-      "id": "blood_parkour",
-      "title": "паркур какой то",
-      "author": "Qwen3.7",
-      "description": "хз",
-      "preview": "https://i.imgur.com/3QZz9Lp.png",
-      "luaUrl": "https://raw.githubusercontent.com/FChickCG/FluzerDesh2Workshop/refs/heads/main/mods/blood_parkour.lua",
-      "sizeKb": 50
-    },
-    {
-      "id": "chaos_roulette",
-      "title": "Хаос-Рулетка",
-      "author": "Флузердеш",
-      "description": "Каждые 15 секунд физика игры случайно меняется! Будь готов ко всему.",
-      "preview": "https://example.org/previews/chaos.png",
-      "luaUrl": "https://raw.githubusercontent.com/FChickCG/FluzerDesh2Workshop/refs/heads/main/mods/chaos_roulette.lua",
-      "sizeKb": 26
-    },
-    {
-      "id": "SpaceMode",
-      "title": "SpaceMode",
-      "author": "Флузердеш",
-      "description": "космос",
-      "preview": "https://moya-planeta.ru/upload/images/xl/b6/a4/b6a48cbb08a064efec808d431cdc14d974e58d7e.jpg",
-      "luaUrl": "https://raw.githubusercontent.com/FChickCG/FluzerDesh2Workshop/refs/heads/main/mods/SpaceMode",
-      "sizeKb": 10
+      "id": "porno",
+      "title": "Порно Мод",
+      "author": "Жироаппс",
+      "description": "Самый нужный мод в игре.",
+      "preview": "",
+      "luaUrl": "",
+      "sizeKb": 1
     }
   ]
 }
